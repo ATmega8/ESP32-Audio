@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 21)
+    (drawings 20)
     (tracks 2220)
     (zones 0)
     (modules 215)
@@ -10795,9 +10795,6 @@
       (xy -2.259251 0.392036)) (layer F.SilkS) (width 0.01))
   )
 
-  (gr_text "L 2018.10\nRev 1.0" (at 183.0705 63.3095 90) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
   (gr_text "Ext I2S Input" (at 156.7815 65.7225) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
